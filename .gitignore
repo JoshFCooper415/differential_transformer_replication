@@ -1,0 +1,4 @@
+wandb
+tokenizer
+__pycache__
+best_model.pt
